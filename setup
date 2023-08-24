@@ -1,0 +1,5 @@
+#!/nin/bash
+mv c /bin
+cd
+rm -rf c-script
+echo "ya welcome"
